@@ -1,5 +1,5 @@
 # ReloadSL
-ReloadSL Recharge app in Sri Lanka. 
+Leading Multi-Recharge app in Sri Lanka. 
 Support reload & Bill Payments providers are;
    - Prepaid & Post paid mobiles
      (Dialog, Mobitel, Hutch, Airtel) 
