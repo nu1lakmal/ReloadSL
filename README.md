@@ -1,6 +1,6 @@
 # ReloadSL
 ReloadSL Recharge app - Sri Lanka
-Support reload & Bill Payments of providers are
+Reload & Bill Payments Support providers are;
    - Prepaid & Post paid mobiles
      (Dialog, Mobitel, Hutch, Airtel) 
    - CDMA & Land Lines
